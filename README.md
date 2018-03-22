@@ -1,7 +1,6 @@
 # Movie-Trailer-Website
 project1
-# Project 1: Movie Trailer Website
-### by Steven Wooding
+### by Megha Sood
 
 Movie trailer website project, part of the Udacity [Full Stack Web Developer
 Nanodegree](https://www.udacity.com/course/full-stack-web-developer-nanodegree--nd004).
@@ -45,12 +44,8 @@ Your default browser should launch a new tab displaying the movie trailer websit
 The following features were implemented to gain an extra credit from Udacity:
 
 * Added the storyline of the movie to the website.
-* Added the release date to the Movie class, which is also displayed on the website.
-* Changed the background and text colour to create a dark theme for the website.
-* Added subtle drop shadow to the movie poster images.
 
 ## Miscellaneous
 
-This README document is based on a template suggested by PhilipCoach in this
-Udacity forum [post](https://discussions.udacity.com/t/readme-files-in-project-1/23524).
+Taken help from Steve Woods[ReadMe file](https://github.com/SteveWooding/movie-website).
 
